@@ -1,14 +1,13 @@
 {
-  "name": "eslint-config-standard-jsx",
-  "description": "JavaScript Standard Style JSX support - ESLint Shareable Config",
-  "version": "1.1.1",
+  "name": "eslint-config-lower-standard-jsx",
+  "description": "JavaScript Lower Standard Style JSX support - ESLint Shareable Config",
+  "version": "1.1.1-1",
   "author": {
-    "name": "Feross Aboukhadijeh",
-    "email": "feross@feross.org",
-    "url": "http://feross.org/"
+    "name": "Jason Pincin",
+    "email": "jason@pincin.com"
   },
   "bugs": {
-    "url": "https://github.com/feross/eslint-config-standard-jsx/issues"
+    "url": "https://github.com/jasonpincin/eslint-config-lower-standard-jsx/issues"
   },
   "peerDependencies": {
     "eslint": "^2.0.0-rc.0",
@@ -19,7 +18,7 @@
     "eslint-plugin-react": ">=2.7.1",
     "tape": "^4.0.0"
   },
-  "homepage": "https://github.com/feross/eslint-config-standard-jsx",
+  "homepage": "https://github.com/jasonpincin/eslint-config-lower-standard-jsx",
   "keywords": [
     "standard",
     "style checker",
@@ -51,7 +50,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/eslint-config-standard-jsx.git"
+    "url": "git://github.com/jasonpincin/eslint-config-lower-standard-jsx.git"
   },
   "scripts": {
     "test": "tape test/*.js"
